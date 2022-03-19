@@ -1,0 +1,6 @@
+com\wes\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\wes\fraud\FraudCheckHistoryRespository.class
+com\wes\fraud\FraudApplication.class
+com\wes\fraud\FraudCheckHistory.class
+com\wes\fraud\FraudCheckService.class
+com\wes\fraud\FraudController.class

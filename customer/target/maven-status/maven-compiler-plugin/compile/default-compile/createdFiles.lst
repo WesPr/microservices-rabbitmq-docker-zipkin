@@ -1,8 +1,8 @@
-com/wes/customer/Customer.class
-com/wes/customer/CustomerConfig.class
-com/wes/customer/CustomerRegistrationRequest.class
-com/wes/customer/CustomerApplication.class
-com/wes/customer/Customer$CustomerBuilder.class
-com/wes/customer/CustomerService.class
-com/wes/customer/CustomerController.class
-com/wes/customer/CustomerRepository.class
+com\wes\customer\CustomerService.class
+com\wes\customer\CustomerRegistrationRequest.class
+com\wes\customer\CustomerRepository.class
+com\wes\customer\Customer.class
+com\wes\customer\CustomerConfig.class
+com\wes\customer\Customer$CustomerBuilder.class
+com\wes\customer\CustomerApplication.class
+com\wes\customer\CustomerController.class

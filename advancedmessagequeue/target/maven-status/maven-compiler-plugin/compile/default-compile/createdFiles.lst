@@ -1,2 +1,2 @@
-com/wes/amqp/RabbitMQMessageProducer.class
-com/wes/amqp/RabbitMQConfig.class
+com\wes\amqp\RabbitMQConfig.class
+com\wes\amqp\RabbitMQMessageProducer.class

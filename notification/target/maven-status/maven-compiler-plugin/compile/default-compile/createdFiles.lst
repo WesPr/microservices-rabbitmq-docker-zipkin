@@ -1,1 +1,8 @@
-com/wes/notification/rabbitmq/NotificationConsumer.class
+com\wes\notification\NotificationRepository.class
+com\wes\notification\Notification$NotificationBuilder.class
+com\wes\notification\NotificationConfig.class
+com\wes\notification\Notification.class
+com\wes\notification\NotificationService.class
+com\wes\notification\rabbitmq\NotificationConsumer.class
+com\wes\notification\NotificationApplication.class
+com\wes\notification\NotificationController.class

@@ -1,4 +1,4 @@
-com/wes/clients/notification/NotificationClient.class
-com/wes/clients/notification/NotificationRequest.class
-com/wes/clients/fraud/FraudCheckResponse.class
-com/wes/clients/fraud/FraudClient.class
+com\wes\clients\fraud\FraudClient.class
+com\wes\clients\fraud\FraudCheckResponse.class
+com\wes\clients\notification\NotificationRequest.class
+com\wes\clients\notification\NotificationClient.class

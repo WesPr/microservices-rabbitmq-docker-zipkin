@@ -1,7 +1,7 @@
-/Users/michelavigliotti/Desktop/services/customer/src/main/java/com/wes/customer/CustomerApplication.java
-/Users/michelavigliotti/Desktop/services/customer/src/main/java/com/wes/customer/CustomerService.java
-/Users/michelavigliotti/Desktop/services/customer/src/main/java/com/wes/customer/CustomerController.java
-/Users/michelavigliotti/Desktop/services/customer/src/main/java/com/wes/customer/Customer.java
-/Users/michelavigliotti/Desktop/services/customer/src/main/java/com/wes/customer/CustomerRepository.java
-/Users/michelavigliotti/Desktop/services/customer/src/main/java/com/wes/customer/CustomerConfig.java
-/Users/michelavigliotti/Desktop/services/customer/src/main/java/com/wes/customer/CustomerRegistrationRequest.java
+C:\Users\WesleyPreece\git\microservices-rabbitmq-docker-kubernetes-zipkin\customer\src\main\java\com\wes\customer\Customer.java
+C:\Users\WesleyPreece\git\microservices-rabbitmq-docker-kubernetes-zipkin\customer\src\main\java\com\wes\customer\CustomerController.java
+C:\Users\WesleyPreece\git\microservices-rabbitmq-docker-kubernetes-zipkin\customer\src\main\java\com\wes\customer\CustomerService.java
+C:\Users\WesleyPreece\git\microservices-rabbitmq-docker-kubernetes-zipkin\customer\src\main\java\com\wes\customer\CustomerApplication.java
+C:\Users\WesleyPreece\git\microservices-rabbitmq-docker-kubernetes-zipkin\customer\src\main\java\com\wes\customer\CustomerConfig.java
+C:\Users\WesleyPreece\git\microservices-rabbitmq-docker-kubernetes-zipkin\customer\src\main\java\com\wes\customer\CustomerRegistrationRequest.java
+C:\Users\WesleyPreece\git\microservices-rabbitmq-docker-kubernetes-zipkin\customer\src\main\java\com\wes\customer\CustomerRepository.java
